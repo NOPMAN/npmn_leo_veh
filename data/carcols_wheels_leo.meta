@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+<CVehicleModelInfoVarGlobal>    
+  <Wheels>
+  
+    <Item/> <!-- VWT_SPORT -->
+	
+    <Item> <!-- VWT_MUSCLE -->
+
+<!-- Washington -->
+	  <Item> <!-- Alloys Paintable -->
+        <wheelName>wheel_wash_alloy_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_wash_ap</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+
+<!-- Bison -->
+	<!-- Alloys -->
+	  <Item> <!-- Chrome -->
+        <wheelName>wheel_bison_alloy_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_bisn_ac</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Chrome Offroad -->
+        <wheelName>wheel_bison_alloy_ofrc</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_bisn_aco</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Paintable -->
+        <wheelName>wheel_bison_alloy_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_bisn_ap</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Paintable Offroad -->
+        <wheelName>wheel_bison_alloy_ofrp</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_bisn_apo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	<!-- Steelies -->
+	  <Item> <!-- Chrome -->
+        <wheelName>wheel_bison_steel_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_bisn_sc</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Chrome Offroad -->
+        <wheelName>wheel_bison_steel_ofrc</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_bisn_sco</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Paintable -->
+        <wheelName>wheel_bison_steel_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_bisn_sp</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Paintable Offroad -->
+        <wheelName>wheel_bison_steel_ofrp</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_bisn_spo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+
+<!-- Buffalo -->
+	  <Item> <!-- Alloys Chrome -->
+        <wheelName>wheel_buff_alloy_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_buff_ac</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Alloys Paintable -->
+        <wheelName>wheel_buff_alloy_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_buff_ap</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Steelies Paintable -->
+        <wheelName>wheel_buff_steel_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_buff_sp</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+
+<!-- Fugitive -->
+	  <Item> <!-- Hubcaps -->
+        <wheelName>wheel_fug_hubcap_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_fug_hc</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Hubcaps Paintable -->
+        <wheelName>wheel_fug_hubcap_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_fug_hp</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Steelies Paintable -->
+        <wheelName>wheel_fug_steel_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_fug_sp</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+
+<!-- Declasse -->
+	<!-- Alloys -->
+	  <Item> <!-- Chrome -->
+        <wheelName>wheel_alamo_alloy_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_dec_ac</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Chrome Offroad -->
+        <wheelName>wheel_alamo_alloy_ofrc</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_dec_aco</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	<!-- Presidential -->
+	  <Item> <!-- Chrome -->
+        <wheelName>wheel_president_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_dec_prec</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Paintable -->
+        <wheelName>wheel_president_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_dec_prep</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	<!-- Steelies -->
+	  <Item> <!-- Variant A Paintable -->
+        <wheelName>wheel_alamo_steel1_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_dec_s1p</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Variant A Paintable Offroad -->
+        <wheelName>wheel_alamo_steel1_ofrp</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_dec_s1po</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Variant B Paintable -->
+        <wheelName>wheel_alamo_steel2_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_dec_s2p</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Variant B Paintable Offroad -->
+        <wheelName>wheel_alamo_steel2_ofrp</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_dec_s2po</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  
+<!-- Alamo -->
+	  <Item> <!-- Civ Chrome -->
+        <wheelName>wheel_alamo_civ_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_dec_cc</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Civ Chrome Offroad -->
+        <wheelName>wheel_alamo_civ_ofrc</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_dec_cco</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Civ Paintable -->
+        <wheelName>wheel_alamo_civ_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_dec_cp</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Civ Paintable Offroad -->
+        <wheelName>wheel_alamo_civ_ofrp</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_dec_cpo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+
+<!-- Merit -->
+	  <Item> <!-- Hubcaps Chrome -->
+        <wheelName>wheel_merit_hub_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_mert_hc</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Hubcaps Paintable -->
+        <wheelName>wheel_merit_hub_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_mert_hp</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+
+<!-- Interceptor -->
+	<!-- Civilian -->
+	  <Item> <!-- Chrome -->
+        <wheelName>wheel_int_civ_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_int_cc</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Paintable -->
+        <wheelName>wheel_int_civ_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_int_cp</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	<!-- Hubcaps -->
+	  <Item> <!-- Paintable -->
+        <wheelName>wheel_int_hubcap_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_int_hp</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Paintable Offroad -->
+        <wheelName>wheel_int_hubcap_ofrp</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_int_hpo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	<!-- Steelies -->
+	  <Item> <!-- '11 Steelies Paintable -->
+        <wheelName>wheel_int_11steel_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_int_11sp</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Steelies Paintable -->
+        <wheelName>wheel_int_steel1_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_int_s1p</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Steelies Paintable Offroad -->
+        <wheelName>wheel_int_steel1_ofrp</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_int_s1po</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Steelies NoCap Paintable -->
+        <wheelName>wheel_int_steel2_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_int_s2p</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Steelies NoCap Paintable Offroad -->
+        <wheelName>wheel_int_steel2_ofrp</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_int_s2po</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+
+<!-- Sandking -->
+	  <Item> <!-- Civ Chrome -->
+        <wheelName>wheel_sandk_civ_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_sand_cc</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Civ Chrome Offroad -->
+        <wheelName>wheel_sandk_civ_ofrc</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_sand_cco</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Civ Paintable -->
+        <wheelName>wheel_sandk_civ_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_sand_cp</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Civ Paintable Offroad	  -->
+        <wheelName>wheel_sandk_civ_ofrp</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_sand_cpo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+
+<!-- Scout -->
+	  <Item> <!-- Alloys Chrome -->
+        <wheelName>wheel_scout_alloy_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_scot_ac</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Alloys Chrome Offroad -->
+        <wheelName>wheel_scout_alloy_ofrc</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_scot_aco</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Alloys Paintable -->
+        <wheelName>wheel_scout_alloy_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_scot_ap</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Alloys Paintable Offroad -->
+        <wheelName>wheel_scout_alloy_ofrp</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_scot_apo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+
+<!-- SSV -->
+	<!-- Alloys -->
+	  <Item> <!-- Variant A Chrome -->
+        <wheelName>wheel_ssv_alloy1_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_ssv_a1c</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Variant A Chrome Offroad -->
+        <wheelName>wheel_ssv_alloy1_ofrc</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_ssv_a1co</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Variant A Paintable -->
+        <wheelName>wheel_ssv_alloy1_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_ssv_a1p</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Variant A Paintable Offroad -->
+        <wheelName>wheel_ssv_alloy1_ofrp</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_ssv_a1po</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Variant B Chrome -->
+        <wheelName>wheel_ssv_alloy2_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_ssv_a2c</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Variant B Chrome Offroad -->
+        <wheelName>wheel_ssv_alloy2_ofrc</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_ssv_a2co</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Variant B Paintable -->
+        <wheelName>wheel_ssv_alloy2_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_ssv_a2p</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Variant B Paintable Offroad -->
+        <wheelName>wheel_ssv_alloy2_ofrp</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_ssv_a2po</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	<!-- Hubcaps -->
+	  <Item> <!-- Paintable -->
+        <wheelName>wheel_ssv_hubcap_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_ssv_hp</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Paintable Offroad -->
+        <wheelName>wheel_ssv_hubcap_ofrp</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_ssv_hpo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	<!-- Steelies -->
+	  <Item> <!-- Chrome -->
+        <wheelName>wheel_ssv_steel_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_ssv_sc</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Chrome Offroad -->
+        <wheelName>wheel_ssv_steel_ofrc</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_ssv_sco</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Paintable -->
+        <wheelName>wheel_ssv_steel_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_ssv_sp</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Paintable Offroad -->
+        <wheelName>wheel_ssv_steel_ofrp</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_ssv_spo</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+
+<!-- Stanier -->
+	<!-- Hubcaps -->
+	  <Item> <!-- Variant A Paintable -->
+        <wheelName>wheel_stan_hub1_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_stan_h1p</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Variant B Chrome -->
+        <wheelName>wheel_stan_hub2_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_stan_h2c</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Variant B Paintable -->
+        <wheelName>wheel_stan_hub2_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_stan_h2p</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Spoke Hubcaps A Chrome -->
+        <wheelName>wheel_stan_spoke1_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_stan_h3c</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- Spoke Hubcaps B Chrome -->
+        <wheelName>wheel_stan_spoke2_c</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_stan_h4c</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	<!-- Steelies -->
+	  <Item> <!-- Paintable -->
+        <wheelName>wheel_stan_steel1_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_stan_s1p</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item> <!-- NoCap Paintable -->
+        <wheelName>wheel_stan_steel2_p</wheelName>
+        <wheelVariation />
+        <modShopLabel>le_stan_s2p</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+
+	</Item>
+
+    <Item/> <!-- VWT_LOWRIDER -->
+	
+    <Item/> <!-- VWT_SUV -->
+		
+    <Item/> <!-- VWT_OFFROAD -->
+
+    <Item/> <!-- VWT_TUNER -->
+	
+    <Item/> <!-- VWT_BIKE -->
+	
+    <Item/> <!-- VWT_HIEND -->
+	
+    <Item/> <!-- VWT_SUPERMOD1 -->
+	
+    <Item/> <!-- VWT_SUPERMOD2 -->
+	
+	<Item/> <!-- VWT_SUPERMOD3 -->
+	
+  </Wheels>
+</CVehicleModelInfoVarGlobal>
