@@ -9579,5 +9579,607 @@
       <lightSettings value="1"/>
       <sirenSettings value="40101"/>
     </Item>
+    <!-- NPS/USPR -->
+	<Item> <!-- npsscout -->
+      <modelName>npsscout</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+     <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="2024"/>
+      <sirenSettings value="212"/>
+    </Item>
+	<Item> <!-- npsalamo -->
+      <modelName>npsalamo</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            156
+          </indices>
+          </Item>
+      </colors>
+	  <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2019"/>
+      <sirenSettings value="212"/>
+    </Item>
+	<Item> <!-- npsalamo2 -->
+      <modelName>npsalamo2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            156
+          </indices>
+          </Item>
+      </colors>
+	  <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2019"/>
+      <sirenSettings value="212"/>
+    </Item>
+    <Item> <!-- npslandstalxl -->
+      <modelName>npslandstalxl</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            156
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+         <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2029" />
+      <sirenSettings value="212" />
+    </Item>
+    <Item> <!-- npssandk -->
+      <modelName>npssandk</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            13
+            0
+            0
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2023" />
+      <sirenSettings value="212" />
+    </Item>
+	<Item> <!-- npsstanier -->
+	  <modelName>npsstanier</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            0
+            105
+            0
+          </indices>
+        </Item>
+      </colors>
+	 <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+	  <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+		  <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2007" />
+      <sirenSettings value="212" />
+    </Item>
+	<Item> <!-- npstorrence -->
+      <modelName>npstorrence</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="2024"/>
+      <sirenSettings value="212"/>
+    </Item>
+	<Item> <!-- npsbuffs -->
+      <modelName>npsbuffs</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            0
+            28
+            0
+          </indices>
+        </Item>
+      </colors>
+	 <kits>
+        <Item>0_default_no_lower</Item>
+     </kits>
+     <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+		  <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2015"/>
+      <sirenSettings value="212"/>
+    </Item>
+	<Item> <!-- npspatriot -->
+	      <modelName>npspatriot</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            132
+	            132
+	            0
+	            156
+	            0
+	            0
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_default_no_lower</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="2006"/>
+	      <sirenSettings value="212"/>
+	    </Item>
+	<Item> <!-- npsgresley -->
+      <modelName>npsgresley</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            156
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2009"/>
+      <sirenSettings value="212"/>
+    </Item>
+	<Item> <!-- npsyose -->
+      <modelName>npsyose</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            156
+          </indices>
+          </Item>
+      </colors>
+	  <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2019"/>
+      <sirenSettings value="212"/>
+    </Item>
+	<Item> <!-- npslandr -->
+      <modelName>npslandr</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            156
+          </indices>
+          </Item>
+      </colors>
+	  <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2007"/>
+      <sirenSettings value="212"/>
+    </Item>
+	<Item> <!-- npslandr2 -->
+	      <modelName>npslandr2</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            134
+	            134
+	            0
+	            156
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_default_no_lower</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="2007"/>
+	      <sirenSettings value="230"/>
+	    </Item>
+	<Item> <!-- npslandr3 -->
+	      <modelName>npslandr3</modelName>
+	      <colors>
+	        <Item>
+	          <indices content="char_array">
+	            134
+	            134
+	            0
+	            156
+	          </indices>
+	        </Item>
+	      </colors>
+	      <kits>
+	        <Item>0_default_no_lower</Item>
+	      </kits>
+	      <plateProbabilities>
+	        <Probabilities>
+	          <Item>
+	            <Name>police guv plate</Name>
+	            <Value value="100"/>
+	          </Item>
+	        </Probabilities>
+	      </plateProbabilities>
+	      <lightSettings value="2007"/>
+	      <sirenSettings value="230"/>
+	    </Item>
+	<Item> <!-- npsbuffs2 -->
+      <modelName>npsbuffs2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            0
+            28
+            0
+          </indices>
+        </Item>
+      </colors>
+	 <kits>
+        <Item>0_default_no_lower</Item>
+     </kits>
+     <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+		  <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2015"/>
+      <sirenSettings value="192"/>
+    </Item>
+    <Item> <!-- npscara2 -->
+      <modelName>npscara2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>3504_cara4x4fed_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police Guv Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="3000" /> 
+      <sirenSettings value="223" />
+    </Item>
+	<Item> <!-- npsalamo3 -->
+      <modelName>npsalamo3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            156
+          </indices>
+          </Item>
+      </colors>
+	  <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2019"/>
+      <sirenSettings value="230"/>
+    </Item>
+	<Item> <!-- npsbison -->
+      <modelName>npsbison</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            156
+          </indices>
+          </Item>
+      </colors>
+	  <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2006"/>
+      <sirenSettings value="212"/>
+    </Item>
+
+	<Item> <!-- npscont -->
+	  <modelName>npscont</modelName>
+	  <colors>
+		<Item>
+		  <indices content="char_array">
+            134
+            13
+            0
+            0
+            0
+            0
+		  </indices>
+		  <liveries>
+
+		  </liveries>
+		</Item>
+	  </colors>
+	  <kits>
+		<Item>0_default_no_lower</Item>
+	  </kits>
+	  <windowsWithExposedEdges />
+	  <plateProbabilities>
+		<Probabilities />
+	  </plateProbabilities>
+	  <lightSettings value="2008" />
+	  <sirenSettings value="212" />
+	</Item>	
+	<Item> <!-- npscont2 -->
+	  <modelName>npscont2</modelName>
+	  <colors>
+		<Item>
+		  <indices content="char_array">
+            134
+            13
+            0
+            156
+            0
+            0
+		  </indices>
+		  <liveries>
+
+		  </liveries>
+		</Item>
+	  </colors>
+	  <kits>
+		<Item>0_default_no_lower</Item>
+	  </kits>
+	  <windowsWithExposedEdges />
+	  <plateProbabilities>
+		<Probabilities />
+	  </plateProbabilities>
+	  <lightSettings value="2008" />
+	  <sirenSettings value="212" />
+	</Item>	
+	<Item> <!-- npsl350a -->
+      <modelName>npsl350a</modelName>
+	  <colors>
+        <Item>
+          <indices content="char_array">
+			134
+			134
+			0
+			156
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>yankton plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2007" />
+      <sirenSettings value="68" />
+    </Item>
+    <Item> <!-- npsv450a -->
+      <modelName>npsv450a</modelName>
+	  <colors>
+        <Item>
+          <indices content="char_array">
+			134
+			134
+			0
+			156
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>yankton plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2007" />
+      <sirenSettings value="68" />
+    </Item>
+    
   </variationData>
 </CVehicleModelInfoVariation>
