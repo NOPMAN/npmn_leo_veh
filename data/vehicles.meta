@@ -119,7 +119,7 @@
     <Item>
       <modelName>LSSDumkscout1a</modelName>
       <txdName>LSSDumkscout1a</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>LSSDumkscout1a</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -240,7 +240,7 @@
     <Item>
       <modelName>LSSDumkscout2a</modelName>
       <txdName>LSSDumkscout2a</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>LSSDumkscout2a</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -361,7 +361,7 @@
     <Item>
       <modelName>LSSDscout3</modelName>
       <txdName>LSSDscout3</txdName>
-      <handlingId>SCOUT2020</handlingId>
+      <handlingId>POLSCOUT2020</handlingId>
       <gameName>LSSDscout3</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -482,7 +482,7 @@
     <Item>
       <modelName>LSSDMETscout3</modelName>
       <txdName>LSSDMETscout3</txdName>
-      <handlingId>SCOUT2020</handlingId>
+      <handlingId>POLSCOUT2020</handlingId>
       <gameName>LSSDMETscout3</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -603,7 +603,7 @@
     <Item>
       <modelName>LSSDtorrence</modelName>
       <txdName>LSSDtorrence</txdName>
-      <handlingId>POLICE3</handlingId>
+      <handlingId>POLTORRENCE</handlingId>
       <gameName>LSSDtorrence</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -724,7 +724,7 @@
     <Item>
       <modelName>LSSDstanier1b</modelName>
       <txdName>LSSDstanier1b</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>LSSDstanier1b</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -957,7 +957,7 @@
     <Item>
       <modelName>LSSDtfstanM</modelName>
       <txdName>LSSDtfstanM</txdName>
-      <handlingId>LSSDTFSTANIER</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>LSSDtfstanM</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -1077,7 +1077,7 @@
     <Item>
       <modelName>LSSDtfstan1</modelName>
       <txdName>LSSDtfstan1</txdName>
-      <handlingId>LSSDTFSTANIER</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>LSSDtfstan1</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -1197,7 +1197,7 @@
     <Item>
       <modelName>LSSDtfstanumk1</modelName>
       <txdName>LSSDtfstanumk1</txdName>
-      <handlingId>LSSDTFSTANIER</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>LSSDtfstanumk1</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -1317,7 +1317,7 @@
     <Item>
       <modelName>LSSDtfstanumk2</modelName>
       <txdName>LSSDtfstanumk2</txdName>
-      <handlingId>LSSDTFSTANIER</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>LSSDtfstanumk2</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -1437,7 +1437,7 @@
     <Item>
       <modelName>LSSDbuffsx</modelName>
       <txdName>LSSDbuffsx</txdName>
-      <handlingId>LSSDBUFFALOSXP</handlingId>
+      <handlingId>POLBUFFALOSTX</handlingId>
       <gameName>LSSDbuffsx</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -2869,7 +2869,7 @@
     <Item>
       <modelName>lspdscoutk9a</modelName>
       <txdName>lspdscoutk9a</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>LSPDSCOUTK9A</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -2990,7 +2990,7 @@
     <Item>
       <modelName>lspdscoutk9b</modelName>
       <txdName>lspdscoutk9b</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>LSPDSCOUTK9B</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -3111,7 +3111,7 @@
     <Item>
       <modelName>lspdscoutk9c</modelName>
       <txdName>lspdscoutk9c</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>LSPDSCOUTK9C</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -3232,7 +3232,7 @@
     <Item>
       <modelName>lspdscout2k9a</modelName>
       <txdName>LSPDSCOUT2K9A</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>lspdscout2k9a</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -3353,7 +3353,7 @@
     <Item>
       <modelName>lspdscout2k9b</modelName>
       <txdName>LSPDSCOUT2K9B</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>lspdscout2k9b</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -3474,7 +3474,7 @@
     <Item>
       <modelName>lspdscout2k9c</modelName>
       <txdName>LSPDSCOUT2K9C</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>lspdscout2k9c</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -3595,7 +3595,7 @@
     <Item>
       <modelName>lspdscout2k9d</modelName>
       <txdName>LSPDSCOUT2K9D</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>lspdscout2k9d</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -3716,7 +3716,7 @@
     <Item>
       <modelName>lspdscout3k9</modelName>
       <txdName>lspdscout3k9</txdName>
-      <handlingId>scout2020</handlingId>
+      <handlingId>POLSCOUT2020</handlingId>
       <gameName>lspdscout3k9</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -3950,7 +3950,7 @@
       <modelName>lspdbuffalosx</modelName>
       <txdName>lspdbuffalosx</txdName>
       <handlingId>BUFFALO5</handlingId>
-      <gameName>LSPDBUFFALOSX</gameName>
+      <gameName>POLBUFFALOSTX</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -4070,7 +4070,7 @@
     <Item>
       <modelName>lspdscout13umk</modelName>
       <txdName>lspdscout13umk</txdName>
-      <handlingId>NSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>barysct13umk</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -4191,7 +4191,7 @@
     <Item>
       <modelName>lspdbuff08umk</modelName>
       <txdName>lspdbuff08umk</txdName>
-      <handlingId>BUFFALO</handlingId>
+      <handlingId>POLBUFFALO</handlingId>
       <gameName>BUFFALO</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -4315,7 +4315,7 @@
     <Item>
       <modelName>lspdscout20umk</modelName>
       <txdName>lspdscout20umk</txdName>
-      <handlingId>scout2020</handlingId>
+      <handlingId>POLSCOUT2020</handlingId>
       <gameName>nscoutlspd</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -4557,7 +4557,7 @@
     <Item>
       <modelName>lspdscoutk9</modelName>
       <txdName>lspdscoutk9</txdName>
-      <handlingId>NSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>barysct13umk</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -6025,7 +6025,7 @@
     <Item>
       <modelName>bcsobuffalos</modelName>
       <txdName>bcsobuffalos</txdName>
-      <handlingId>POLICE2</handlingId>
+      <handlingId>POLBUFFALO</handlingId>
       <gameName>BCSOBUFS</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -6150,7 +6150,7 @@
     <Item>
       <modelName>bcsobuffalos2</modelName>
       <txdName>bcsobuffalos</txdName>
-      <handlingId>POLICE2</handlingId>
+      <handlingId>POLBUFFALO</handlingId>
       <gameName>BCSOBUFS</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -6405,7 +6405,7 @@
     <Item>
       <modelName>BCSOFUGITIVE</modelName>
       <txdName>BCSOFUGITIVE</txdName>
-      <handlingId>FUGITIVE</handlingId>
+      <handlingId>POLFUGITIVE</handlingId>
       <gameName>bcsofugi</gameName>
       <vehicleMakeName>cheval</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -7292,7 +7292,7 @@
     <Item>
       <modelName>bcsoscout</modelName>
       <txdName>bcsoscout</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>bcsoscou</gameName>
       <vehicleMakeName>vapid</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -7425,7 +7425,7 @@
     <Item>
       <modelName>bcsoscout2</modelName>
       <txdName>bcsoscout2</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>bcsosco2</gameName>
       <vehicleMakeName>vapid</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -7679,7 +7679,7 @@
     <Item>
       <modelName>bcsostanier</modelName>
       <txdName>bcsostanier</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>bcsostan</gameName>
       <vehicleMakeName>vapid</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -7811,7 +7811,7 @@
     <Item>
       <modelName>bcsostanier2</modelName>
       <txdName>bcsostanier2</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>bcsostan</gameName>
       <vehicleMakeName>vapid</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -7944,7 +7944,7 @@
     <Item>
       <modelName>bcsostanierK9</modelName>
       <txdName>bcsostanierK9</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>bcsostan</gameName>
       <vehicleMakeName>vapid</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -8565,7 +8565,7 @@
     <Item>
       <modelName>bcsostanier3</modelName>
       <txdName>bcsostanier3</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>bcsostan</gameName>
       <vehicleMakeName>vapid</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -8830,7 +8830,7 @@
     <Item>
       <modelName>lspd2020scout</modelName>
       <txdName>lspd2020scout</txdName>
-      <handlingId>scout2020</handlingId>
+      <handlingId>POLSCOUT2020</handlingId>
       <gameName>nscoutlspd</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -8951,7 +8951,7 @@
     <Item>
       <modelName>lssd2020scout</modelName>
       <txdName>lssd2020scout</txdName>
-      <handlingId>scout2020</handlingId>
+      <handlingId>POLSCOUT2020</handlingId>
       <gameName>nscoutlssd</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -9072,7 +9072,7 @@
     <Item>
       <modelName>lspd2020scoutumk</modelName>
       <txdName>lspd2020scoutumk</txdName>
-      <handlingId>scout2020</handlingId>
+      <handlingId>POLSCOUT2020</handlingId>
       <gameName>nscoutlspdslick</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -9193,7 +9193,7 @@
     <Item>
       <modelName>lssd2020scoutb</modelName>
       <txdName>lssd2020scoutb</txdName>
-      <handlingId>scout2020</handlingId>
+      <handlingId>POLSCOUT2020</handlingId>
       <gameName>nscoutlspdslick</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -9314,7 +9314,7 @@
     <Item>
       <modelName>lspp2020scout</modelName>
       <txdName>lspp2020scout</txdName>
-      <handlingId>scout2020</handlingId>
+      <handlingId>POLSCOUT2020</handlingId>
       <gameName>nscoutlspp</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -9435,7 +9435,7 @@
     <Item>
       <modelName>bcso2020scout</modelName>
       <txdName>bcso2020scout</txdName>
-      <handlingId>scout2020</handlingId>
+      <handlingId>POLSCOUT2020</handlingId>
       <gameName>nscoutbcso</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -9556,7 +9556,7 @@
     <Item>
       <modelName>sahp2020scout</modelName>
       <txdName>sahp2020scout</txdName>
-      <handlingId>scout2020</handlingId>
+      <handlingId>POLSCOUT2020</handlingId>
       <gameName>nscoutsahp</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -9677,7 +9677,7 @@
     <Item>
       <modelName>lspdscouta</modelName>
       <txdName>lspdscouta</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>LSPDSCOUTA</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -9798,7 +9798,7 @@
     <Item>
       <modelName>lspdscoutb</modelName>
       <txdName>lspdscoutb</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>LSPDSCOUTB</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -9919,7 +9919,7 @@
     <Item>
       <modelName>lspdscoutc</modelName>
       <txdName>lspdscoutc</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>LSPDSCOUTC</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -10040,7 +10040,7 @@
     <Item>
       <modelName>lspdscout2a</modelName>
       <txdName>LSPDSCOUT2A</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>lspdscout2a</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -10161,7 +10161,7 @@
     <Item>
       <modelName>lspdscout2b</modelName>
       <txdName>LSPDSCOUT2B</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>lspdscout2b</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -10282,7 +10282,7 @@
     <Item>
       <modelName>lspdscout2c</modelName>
       <txdName>LSPDSCOUT2C</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>lspdscout2c</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -10649,7 +10649,7 @@
     <Item>
       <modelName>esdscout</modelName>
       <txdName>esdscout</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>esdscout</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -11381,7 +11381,7 @@
     <Item>
       <modelName>lssdscout1</modelName>
       <txdName>lssdscout1</txdName>
-      <handlingId>LSSDSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>lssdscout1</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -11502,7 +11502,7 @@
     <Item>
       <modelName>lssdscout2</modelName>
       <txdName>lssdscout2</txdName>
-      <handlingId>LSSDSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>lssdscout2</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -11623,7 +11623,7 @@
     <Item>
       <modelName>lssdscoutnew1</modelName>
       <txdName>lssdscoutnew1</txdName>
-      <handlingId>LSSDSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>lssdscoutnew1</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -11744,7 +11744,7 @@
     <Item>
       <modelName>lssdscoutnew2</modelName>
       <txdName>lssdscoutnew2</txdName>
-      <handlingId>LSSDSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>lssdscoutnew2</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -11865,7 +11865,7 @@
     <Item>
       <modelName>lssdscoutnew3</modelName>
       <txdName>lssdscoutnew3</txdName>
-      <handlingId>LSSDSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>lssdscoutnew3</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -11986,7 +11986,7 @@
     <Item>
       <modelName>lssdstanier1</modelName>
       <txdName>lssdstanier1</txdName>
-      <handlingId>LSSDSTANIER</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>lssdstanier1</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -12107,7 +12107,7 @@
     <Item>
       <modelName>lssdstanier2</modelName>
       <txdName>lssdstanier2</txdName>
-      <handlingId>LSSDSTANIER</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>lssdstanier2</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -12452,7 +12452,7 @@
     <Item>
       <modelName>lssdumk1</modelName>
       <txdName>lssdumk1</txdName>
-      <handlingId>police2</handlingId>
+      <handlingId>POLBUFFALOSTX</handlingId>
       <gameName>lssdumk1</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -12573,7 +12573,7 @@
     <Item>
       <modelName>lssdumk2</modelName>
       <txdName>lssdumk2</txdName>
-      <handlingId>LSSDSTANIER</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>lssdumk2</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -12694,7 +12694,7 @@
     <Item>
       <modelName>lssdumk3</modelName>
       <txdName>lssdumk3</txdName>
-      <handlingId>police2</handlingId>
+      <handlingId>POLBUFFALO</handlingId>
       <gameName>lssdumk3</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -12952,7 +12952,7 @@
     <Item>
       <modelName>lssdsecurity1</modelName>
       <txdName>lssdsecurity1</txdName>
-      <handlingId>police2</handlingId>
+      <handlingId>POLBUFFALO</handlingId>
       <gameName>lssdsecurity1</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -13080,7 +13080,7 @@
     <Item>
       <modelName>lssdbuffalosx</modelName>
       <txdName>lssdbuffalosx</txdName>
-      <handlingId>BUFFALOSX</handlingId>
+      <handlingId>POLBUFFALOSTX</handlingId>
       <gameName>BUFFALO4</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -13201,7 +13201,7 @@
     <Item>
       <modelName>lspdtorrence</modelName>
       <txdName>lspdtorrence</txdName>
-      <handlingId>POLICE3</handlingId>
+      <handlingId>POLTORRENCE</handlingId>
       <gameName>lspdtorrence</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -13322,7 +13322,7 @@
     <Item>
       <modelName>lspdstanierslick1</modelName>
       <txdName>lspdstanierslick1</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>lspdstanierslick1</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -13443,7 +13443,7 @@
     <Item>
       <modelName>lspdstanierslick2</modelName>
       <txdName>lspdstanierslick2</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>lspdstanierslick2</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -13564,7 +13564,7 @@
     <Item>
       <modelName>lspdstanier</modelName>
       <txdName>lspdstanier</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>lspdstanier</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -13685,7 +13685,7 @@
     <Item>
       <modelName>lspdstanier2</modelName>
       <txdName>lspdstanier2</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>lspdstanier2</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -13806,7 +13806,7 @@
     <Item>
       <modelName>lspdstanier3</modelName>
       <txdName>lspdstanier3</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>lspdstanier3</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -13929,7 +13929,7 @@
     <Item>
       <modelName>lspdstanier4</modelName>
       <txdName>lspdstanier4</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>lspdstanier4</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -14052,7 +14052,7 @@
     <Item>
       <modelName>lspdstanier5</modelName>
       <txdName>lspdstanier5</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>lspdstanier5</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -14175,7 +14175,7 @@
     <Item>
       <modelName>lspdbuffalo1</modelName>
       <txdName>lspdbuffalo1</txdName>
-      <handlingId>buffalo</handlingId>
+      <handlingId>POLBUFFALO</handlingId>
       <gameName>lspdbuffalo1</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -14429,7 +14429,7 @@
     <Item>
       <modelName>lspdbuffalo2</modelName>
       <txdName>lspdbuffalo2</txdName>
-      <handlingId>BUFFALO2</handlingId>
+      <handlingId>POLBUFFALO</handlingId>
       <gameName>lspdbuffalo2</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -14557,7 +14557,7 @@
     <Item>
       <modelName>lspdbuffalo1umk</modelName>
       <txdName>lspdbuffalo1umk</txdName>
-      <handlingId>buffalo</handlingId>
+      <handlingId>POLBUFFALO</handlingId>
       <gameName>lspdbuffalo1umk</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -14681,7 +14681,7 @@
     <Item>
       <modelName>lspdscout1</modelName>
       <txdName>lspdscout1</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>LSPDSCOUT1</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -15869,7 +15869,7 @@
     <Item>
       <modelName>dppdunmk</modelName>
       <txdName>dppdunmk</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>DPPDUMK</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -15997,7 +15997,7 @@
     <Item>
       <modelName>dppdscout</modelName>
       <txdName>dppdscout</txdName>
-      <handlingId>DPPDSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>DPPDSCT</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -16127,7 +16127,7 @@
     <Item>
       <modelName>dppdscoutsgt</modelName>
       <txdName>dppdscoutsgt</txdName>
-      <handlingId>DPPDSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>DPPDSCTS</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -16257,7 +16257,7 @@
     <Item>
       <modelName>dppdscoutunmk</modelName>
       <txdName>dppdscoutunmk</txdName>
-      <handlingId>DPPDSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>DPPDSCTUMK</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -16387,7 +16387,7 @@
     <Item>
       <modelName>dppdscoutvol</modelName>
       <txdName>dppdscoutvol</txdName>
-      <handlingId>DPPDSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>DPPDSCTVOL</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -16517,7 +16517,7 @@
     <Item>
       <modelName>dppdscoutk9</modelName>
       <txdName>dppdscoutk9</txdName>
-      <handlingId>DPPDSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>DPPDSCT</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -16750,7 +16750,7 @@
     <Item>
       <modelName>dppdk9</modelName>
       <txdName>dppdk9</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>DPPDK9</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -16876,7 +16876,7 @@
     <Item>
       <modelName>dppd</modelName>
       <txdName>dppd</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>DPPD</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -17004,7 +17004,7 @@
     <Item>
       <modelName>dppdsgt</modelName>
       <txdName>dppdsgt</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>DPPDSGT</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -17384,7 +17384,7 @@
     <Item>
       <modelName>rhpdfug</modelName>
       <txdName>rhpdfug</txdName>
-      <handlingId>FUGITIVE</handlingId>
+      <handlingId>POLFUGITIVE</handlingId>
       <gameName>RHPDFUG</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -17514,7 +17514,7 @@
     <Item>
       <modelName>rhpdfugumk</modelName>
       <txdName>rhpdfugumk</txdName>
-      <handlingId>FUGITIVE</handlingId>
+      <handlingId>POLFUGITIVE</handlingId>
       <gameName>RHPDFUGU</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -17646,7 +17646,7 @@
     <Item>
       <modelName>rhpdscout</modelName>
       <txdName>rhpdscout</txdName>
-      <handlingId>RHPDSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>RHPDSCT</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -17767,7 +17767,7 @@
     <Item>
       <modelName>rhpdscoutslick</modelName>
       <txdName>rhpdscoutslick</txdName>
-      <handlingId>RHPDSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>RHPDSCTS</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -17888,7 +17888,7 @@
     <Item>
       <modelName>rhpdscoutk9</modelName>
       <txdName>rhpdscoutk9</txdName>
-      <handlingId>RHPDSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>RHPDSCTK</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -18009,7 +18009,7 @@
     <Item>
       <modelName>rhpdscoutumk</modelName>
       <txdName>rhpdscoutumk</txdName>
-      <handlingId>RHPDSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>RHPDSCTU</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -18481,7 +18481,7 @@
     <Item>
       <modelName>rhpdstanier</modelName>
       <txdName>rhpdstanier</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>RHPDSTANK</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -18735,7 +18735,7 @@
     <Item>
       <modelName>DPSSTANIER</modelName>
       <txdName>DPSSTANIER</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>DPS1</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -18859,7 +18859,7 @@
     <Item>
       <modelName>DPSSTANIER2</modelName>
       <txdName>DPSSTANIER2</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>DPS2</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -18983,7 +18983,7 @@
     <Item>
       <modelName>DPSSTANIER3</modelName>
       <txdName>DPSSTANIER3</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>DPS2</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -19107,7 +19107,7 @@
     <Item>
       <modelName>DPSSTANIER4</modelName>
       <txdName>DPSSTANIER4</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>DPS2</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -19231,7 +19231,7 @@
     <Item>
       <modelName>DPSBUFFALO</modelName>
       <txdName>DPSBUFFALO</txdName>
-      <handlingId>BUFFALO4</handlingId>
+      <handlingId>POLBUFFALOSTX</handlingId>
       <gameName>DPS5</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -19352,7 +19352,7 @@
     <Item>
       <modelName>DPSSTANIER5</modelName>
       <txdName>DPSSTANIER5</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>DPS1</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -19476,7 +19476,7 @@
     <Item>
       <modelName>SAHP</modelName>
       <txdName>SAHP</txdName>
-      <handlingId>SAHP</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>SAHP</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -19619,7 +19619,7 @@
     <Item>
       <modelName>SAHP1A</modelName>
       <txdName>SAHP</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>SAHP</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -19758,7 +19758,7 @@
     <Item>
       <modelName>SAHP1A2</modelName>
       <txdName>SAHP</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>SAHP</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -19897,7 +19897,7 @@
     <Item>
       <modelName>SAHP1B</modelName>
       <txdName>SAHP1B</txdName>
-      <handlingId>SAHP</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>SAHP</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -20041,7 +20041,7 @@
     <Item>
       <modelName>SAHP1B2</modelName>
       <txdName>SAHP1B</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>SAHP</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -20180,7 +20180,7 @@
     <Item>
       <modelName>SAHP1B3</modelName>
       <txdName>SAHP1B</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>SAHP</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -20321,7 +20321,7 @@
     <Item>
       <modelName>SAHP1C</modelName>
       <txdName>SAHP</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>SAHP</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -20466,7 +20466,7 @@
     <Item>
       <modelName>SAHP1D</modelName>
       <txdName>SAHP1D</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>SAHP</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -20605,7 +20605,7 @@
     <Item>
       <modelName>SAHP1E</modelName>
       <txdName>SAHP1E</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>SAHP</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -20747,7 +20747,7 @@
     <Item>
       <modelName>SAHP2</modelName>
       <txdName>SAHP2</txdName>
-      <handlingId>BUFFALO2</handlingId>
+      <handlingId>POLBUFFALO</handlingId>
       <gameName>SAHP2</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -20886,7 +20886,7 @@
     <Item>
       <modelName>SAHP2A</modelName>
       <txdName>SAHP2</txdName>
-      <handlingId>BUFFALO2</handlingId>
+      <handlingId>POLBUFFALO</handlingId>
       <gameName>SAHP2</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -21025,7 +21025,7 @@
     <Item>
       <modelName>SAHP2B</modelName>
       <txdName>SAHP2B</txdName>
-      <handlingId>BUFFALO2</handlingId>
+      <handlingId>POLBUFFALO</handlingId>
       <gameName>SAHP2</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -21164,7 +21164,7 @@
     <Item>
       <modelName>SAHP22</modelName>
       <txdName>SAHP22</txdName>
-      <handlingId>BUFFALO4</handlingId>
+      <handlingId>POLBUFFALOSTX</handlingId>
       <gameName>SAHP22</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -21285,7 +21285,7 @@
     <Item>
       <modelName>SAHP22A</modelName>
       <txdName>SAHP22</txdName>
-      <handlingId>BUFFALO4</handlingId>
+      <handlingId>POLBUFFALOSTX</handlingId>
       <gameName>SAHP22</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -21406,7 +21406,7 @@
     <Item>
       <modelName>SAHP22B</modelName>
       <txdName>SAHP22B</txdName>
-      <handlingId>BUFFALO4</handlingId>
+      <handlingId>POLBUFFALOSTX</handlingId>
       <gameName>SAHP22</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -21527,7 +21527,7 @@
     <Item>
       <modelName>SAHP22C</modelName>
       <txdName>SAHP22C</txdName>
-      <handlingId>BUFFALO4</handlingId>
+      <handlingId>POLBUFFALOSTX</handlingId>
       <gameName>SAHP22</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -21648,7 +21648,7 @@
     <Item>
       <modelName>SAHP3</modelName>
       <txdName>SAHP3</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>SAHP3</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -21772,7 +21772,7 @@
     <Item>
       <modelName>SAHP3A</modelName>
       <txdName>SAHP3A</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>SAHP3</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -21896,7 +21896,7 @@
     <Item>
       <modelName>SAHP3B</modelName>
       <txdName>SAHP3B</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>SAHP3</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -22020,7 +22020,7 @@
     <Item>
       <modelName>SAHP3C</modelName>
       <txdName>SAHP3C</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>SAHP3</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -22144,7 +22144,7 @@
     <Item>
       <modelName>SAHP33</modelName>
       <txdName>SAHP33</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>SAHP33</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -22265,7 +22265,7 @@
     <Item>
       <modelName>SAHP33A</modelName>
       <txdName>SAHP33</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>SAHP33</gameName>
       <gameName>SAHP33</gameName>
       <vehicleMakeName/>
@@ -22386,7 +22386,7 @@
     <Item>
       <modelName>SAHP33B</modelName>
       <txdName>SAHP33B</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>SAHP33</gameName>
       <gameName>SAHP33</gameName>
       <vehicleMakeName/>
@@ -22507,7 +22507,7 @@
     <Item>
       <modelName>SAHP33C</modelName>
       <txdName>SAHP33C</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>SAHP33</gameName>
       <gameName>SAHP33</gameName>
       <vehicleMakeName/>
@@ -23804,7 +23804,7 @@
     <Item>
       <modelName>sahpbuffsx</modelName>
       <txdName>sahpbuffsx</txdName>
-      <handlingId>BUFFALOSX</handlingId>
+      <handlingId>POLBUFFALOSTX</handlingId>
       <gameName>BUFFALOHP</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -23925,7 +23925,7 @@
     <Item>
       <modelName>sahpbuffsx2</modelName>
       <txdName>sahpbuffsx2</txdName>
-      <handlingId>BUFFALOSX</handlingId>
+      <handlingId>POLBUFFALOSTX</handlingId>
       <gameName>BUFFALOHP</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -24046,7 +24046,7 @@
     <Item>
       <modelName>sahpbuffsx2a</modelName>
       <txdName>sahpbuffsx2a</txdName>
-      <handlingId>BUFFALOSX</handlingId>
+      <handlingId>POLBUFFALOSTX</handlingId>
       <gameName>BUFFALOHP</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -24409,7 +24409,7 @@
     <Item>
       <modelName>mbpdbuff2</modelName>
       <txdName>mbpdbuff2</txdName>
-      <handlingId>police2</handlingId>
+      <handlingId>POLBUFFALOSTX</handlingId>
       <gameName>MBPDBUFF</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -24530,7 +24530,7 @@
     <Item>
       <modelName>police3umk</modelName>
       <txdName>police3umk</txdName>
-      <handlingId>POLICE3</handlingId>
+      <handlingId>POLTORRENCE</handlingId>
       <gameName>POLICE4</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -24660,7 +24660,7 @@
     <Item>
       <modelName>police3a</modelName>
       <txdName>police3a</txdName>
-      <handlingId>POLICE3</handlingId>
+      <handlingId>POLTORRENCE</handlingId>
       <gameName>POLICE</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -24794,7 +24794,7 @@
     <Item>
       <modelName>police3slick</modelName>
       <txdName>police3slick</txdName>
-      <handlingId>POLICE3</handlingId>
+      <handlingId>POLTORRENCE</handlingId>
       <gameName>police3slick</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -25048,7 +25048,7 @@
     <Item>
       <modelName>scoutnps</modelName>
       <txdName>scoutnps</txdName>
-      <handlingId>NSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>SCOUTNPS</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -25662,7 +25662,7 @@
     <Item>
       <modelName>policeold</modelName>
       <txdName>policeold</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>POLICEOLD</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -25792,7 +25792,7 @@
     <Item>
       <modelName>policeslick</modelName>
       <txdName>policeslick</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>POLSLICK</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -26429,7 +26429,7 @@
     <Item>
       <modelName>RHPDscout3a</modelName>
       <txdName>RHPDscout3a</txdName>
-      <handlingId>SCOUT2020</handlingId>
+      <handlingId>POLSCOUT2020</handlingId>
       <gameName>RHPDscout3a</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -26550,7 +26550,7 @@
     <Item>
       <modelName>RHPDstanier1</modelName>
       <txdName>RHPDstanier1</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>RHPDstanier1</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -26671,7 +26671,7 @@
     <Item>
       <modelName>RHPDbuffalo1</modelName>
       <txdName>RHPDbuffalo1</txdName>
-      <handlingId>BUFFALO</handlingId>
+      <handlingId>POLBUFFALO</handlingId>
       <gameName>RHPDbuffalo1</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -26919,7 +26919,7 @@
     <Item>
       <modelName>sheriffold</modelName>
       <txdName>sheriffold</txdName>
-      <handlingId>SHERIFF</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>SHERIFF</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -27049,7 +27049,7 @@
     <Item>
       <modelName>lvscout20</modelName>
       <txdName>lvscout20</txdName>
-      <handlingId>20fpiu</handlingId>
+      <handlingId>POLSCOUT2020</handlingId>
       <gameName>lvscout20</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -27170,7 +27170,7 @@
     <Item>
       <modelName>stanierlvpd</modelName>
       <txdName>stanierlvpd</txdName>
-      <handlingId>TFSTANIER</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>stanierlvpd</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -27290,7 +27290,7 @@
     <Item>
       <modelName>policeold71</modelName>
       <txdName>policeold71</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLICEOLD</handlingId>
       <gameName>POLICE</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -27420,7 +27420,7 @@
     <Item>
       <modelName>lssdbuffalos</modelName>
       <txdName>lssdbuffalos</txdName>
-      <handlingId>POLBUFFALOS</handlingId>
+      <handlingId>POLBUFFALO</handlingId>
       <gameName>LSSBUFS</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -28461,7 +28461,7 @@
     <Item>
       <modelName>policeold8</modelName>
       <txdName>policeold8</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>polstanier</handlingId>
       <gameName>policeold8</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -28597,7 +28597,7 @@
     <Item>
       <modelName>policeold81</modelName>
       <txdName>policeold81</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>policeold81</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -28733,7 +28733,7 @@
     <Item>
       <modelName>policeair4</modelName>
       <txdName>policeair4</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>policeair4</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -28869,7 +28869,7 @@
     <Item>
       <modelName>policedv3</modelName>
       <txdName>policedv3</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>policedv3</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -29005,7 +29005,7 @@
     <Item>
       <modelName>policedp4</modelName>
       <txdName>policedp4</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>policedp4</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -29139,7 +29139,7 @@
     <Item>
       <modelName>sheriffold5</modelName>
       <txdName>sheriffold5</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>sheriffold5</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -29273,7 +29273,7 @@
     <Item>
       <modelName>lsiapdstanier</modelName>
       <txdName>lsiapdstanier</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>LSIASTAN</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -29403,7 +29403,7 @@
     <Item>
       <modelName>lsiapdumk</modelName>
       <txdName>lsiapdumk</txdName>
-      <handlingId>POLICE3</handlingId>
+      <handlingId>POLTORRENCE</handlingId>
       <gameName>LSIAUMK</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -29529,7 +29529,7 @@
     <Item>
       <modelName>lsiapdnscout</modelName>
       <txdName>lsiapdnscout</txdName>
-      <handlingId>lsiapdnscout</handlingId>
+      <handlingId>POLSCOUT2020</handlingId>
       <gameName>LSIASCT</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -29655,7 +29655,7 @@
     <Item>
       <modelName>bufsxtrafpol</modelName>
       <txdName>bufsxtrafpol</txdName>
-      <handlingId>BUFSXTRAFPOL</handlingId>
+      <handlingId>POLBUFFALOSTX</handlingId>
       <gameName>BUFSXTFPOL</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -29897,7 +29897,7 @@
     <Item>
       <modelName>nscouttrafpol</modelName>
       <txdName>nscouttrafpol</txdName>
-      <handlingId>NSCTTRAFPOL</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>NSCTTRFPOL</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
@@ -30027,7 +30027,7 @@
     <Item>
       <modelName>npsscout</modelName>
       <txdName>npsscout</txdName>
-      <handlingId>SCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>npsscout</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -30672,7 +30672,7 @@
     <Item>
       <modelName>npsstanier</modelName>
       <txdName>npsstanier</txdName>
-      <handlingId>pstanier</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>npsstanier</gameName>
       <vehicleMakeName>vapid</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -30807,7 +30807,7 @@
     <Item>
       <modelName>npstorrence</modelName>
       <txdName>npstorrence</txdName>
-      <handlingId>POL3NEW</handlingId>
+      <handlingId>POLTORRENCE</handlingId>
       <gameName>npstorrence</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -30942,7 +30942,7 @@
     <Item>
       <modelName>npsbuffs</modelName>
       <txdName>npsbuffs</txdName>
-      <handlingId>BUFF2PD</handlingId>
+      <handlingId>POLBUFFALO</handlingId>
       <gameName>npsbuffs</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -31875,7 +31875,7 @@
     <Item>
       <modelName>npsbuffs2</modelName>
       <txdName>npsbuffs2</txdName>
-      <handlingId>BUFF2PD</handlingId>
+      <handlingId>POLBUFFALO</handlingId>
       <gameName>npsbuffs2</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -33001,7 +33001,7 @@
     <Item>
       <modelName>MCSOstanierretro</modelName>
       <txdName>MCSOstanierretro</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>MCSOstanierretro</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -33122,7 +33122,7 @@
     <Item>
       <modelName>MCSOstanier1</modelName>
       <txdName>MCSOstanier1</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>MCSOstanier1</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -33243,7 +33243,7 @@
     <Item>
       <modelName>MCSOstanier2</modelName>
       <txdName>MCSOstanier2</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>MCSOstanier2</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -33364,7 +33364,7 @@
     <Item>
       <modelName>MCSOstanierumk</modelName>
       <txdName>MCSOstanierumk</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>POLSTANIER</handlingId>
       <gameName>MCSOstanierumk</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -33605,7 +33605,7 @@
     <Item>
       <modelName>MCSOtorrenceumk</modelName>
       <txdName>MCSOtorrenceumk</txdName>
-      <handlingId>POLICE3</handlingId>
+      <handlingId>POLTORRENCE</handlingId>
       <gameName>MCSOtorrenceumk</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -34320,7 +34320,7 @@
     <Item>
       <modelName>MCSOscout1</modelName>
       <txdName>MCSOscout1</txdName>
-      <handlingId>MCSOSCOUT</handlingId>
+      <handlingId>POLSCOUT</handlingId>
       <gameName>MCSOscout1</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -34441,7 +34441,7 @@
     <Item>
       <modelName>MCSOscout2a</modelName>
       <txdName>MCSOscout2a</txdName>
-      <handlingId>MCSOSCOUT</handlingId>
+      <handlingId>POLSSCOUT</handlingId>
       <gameName>MCSOscout2a</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
